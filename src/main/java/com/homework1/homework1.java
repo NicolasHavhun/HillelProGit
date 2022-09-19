@@ -114,7 +114,7 @@ public class homework1 {
         System.out.println(Arrays.toString(array10));
         System.out.println();
         System.out.println();
-        // FIXME: 01.09.2022
+
 
 
     }
