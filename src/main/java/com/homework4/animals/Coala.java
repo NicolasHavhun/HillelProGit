@@ -1,9 +1,9 @@
-package homework4.animals;
+package com.homework4.animals;
 
-import com.hillelPro.havhun.homework4.interfaces.GiveMilk;
-import com.hillelPro.havhun.homework4.interfaces.BehaviorAnimal;
+import com.homework4.interfaces.GiveMilk;
+import com.homework4.interfaces.BehaviorAnimal;
 
-final public class Coala extends Diprotodontia implements BehaviorAnimal, GiveMilk {
+final public class Coala extends com.homework4.animals.Diprotodontia implements BehaviorAnimal, GiveMilk {
     public int height;
     public int weight;
     public void climbTrees(){

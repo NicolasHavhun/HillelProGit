@@ -1,6 +1,6 @@
-package homework4;
+package com.homework4;
 
-import com.hillelPro.havhun.homework4.interfaces.BrassicaGrows;
+import com.homework4.interfaces.BrassicaGrows;
 
 final class Cabbage extends Brassica implements BrassicaGrows {
 

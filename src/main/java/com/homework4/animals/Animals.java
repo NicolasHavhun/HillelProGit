@@ -1,4 +1,4 @@
-package homework4.animals;
+package com.homework4.animals;
 
 public abstract class Animals {
     public boolean live;

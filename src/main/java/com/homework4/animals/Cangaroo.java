@@ -1,7 +1,7 @@
-package homework4.animals;
+package com.homework4.animals;
 
-import com.hillelPro.havhun.homework4.interfaces.GiveMilk;
-import com.hillelPro.havhun.homework4.interfaces.BehaviorAnimal;
+import com.homework4.interfaces.GiveMilk;
+import com.homework4.interfaces.BehaviorAnimal;
 
 final public class Cangaroo extends Diprotodontia implements BehaviorAnimal, GiveMilk {
     private String name;

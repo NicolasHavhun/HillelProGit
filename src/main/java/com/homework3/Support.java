@@ -1,4 +1,4 @@
-package homework3;
+package com.homework3;
 
 public class Support extends User {
 

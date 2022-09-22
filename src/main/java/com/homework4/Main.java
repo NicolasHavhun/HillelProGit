@@ -1,8 +1,8 @@
-package homework4;
+package com.homework4;
 
-import homework4.animals.Cangaroo;
-import homework4.animals.Coala;
-import homework4.animals.Petauridae;
+import com.homework4.animals.Cangaroo;
+import com.homework4.animals.Coala;
+import com.homework4.animals.Petauridae;
 
 
 public class Main {

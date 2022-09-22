@@ -1,4 +1,4 @@
-package homework2;
+package com.homework2;
 
 public class TheHouse {
     private TheStair theStairs;

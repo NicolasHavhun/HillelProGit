@@ -1,6 +1,6 @@
-package homework4.animals;
+package com.homework4.animals;
 
-public abstract class Diprotodontia extends Animals {
+public abstract class Diprotodontia extends com.homework4.animals.Animals {
    boolean sleep;
    boolean eat;
     @Override

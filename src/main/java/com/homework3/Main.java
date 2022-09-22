@@ -1,4 +1,4 @@
-package homework3;
+package com.homework3;
 
 public class Main {
     private static String textWrite;

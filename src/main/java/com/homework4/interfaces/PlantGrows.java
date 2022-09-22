@@ -1,4 +1,4 @@
-package homework4.interfaces;
+package com.homework4.interfaces;
 
 public interface PlantGrows {
 

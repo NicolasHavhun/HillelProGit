@@ -1,4 +1,4 @@
-package homework4;
+package com.homework4;
 
 abstract class Plant {
 
