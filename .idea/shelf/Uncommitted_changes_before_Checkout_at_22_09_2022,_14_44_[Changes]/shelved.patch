@@ -1,0 +1,17 @@
+Index: src/main/java/com/homework6/homework6.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>I try to do merge conflict in homework6 branch to master branch
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/homework6/homework6.txt b/src/main/java/com/homework6/homework6.txt
+--- a/src/main/java/com/homework6/homework6.txt	(revision 67bd63d92566ae686700ee43540ed9805cab8d4c)
++++ b/src/main/java/com/homework6/homework6.txt	(date 1663847015963)
+@@ -1,1 +1,4 @@
+-I try to do merge conflict in homework6 branch to master branch
+\ No newline at end of file
++I try to do merge conflict in homework6 branch to master branch
++I do homework
++I continue to do homework
++

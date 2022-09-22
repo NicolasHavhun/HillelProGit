@@ -1,0 +1,35 @@
+Index: HillelProGit.iml
+===================================================================
+diff --git a/HillelProGit.iml b/HillelProGit.iml
+--- a/HillelProGit.iml	
++++ b/HillelProGit.iml	
+@@ -1,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\n/shelf/\n/.idea/workspace.xml\n# Editor-based HTTP Client requests\n/httpRequests/\n# Datasource local storage ignored files\n/dataSources/\n/dataSources.local.xml\n\n*.xml\n*.iml\n\n\n\n
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	
++++ b/.gitignore	
+@@ -1,6 +1,7 @@
+ # Default ignored files
+ /shelf/
+-/.idea/workspace.xml
++/.idea/
++/src/main/java/com/ignored/ignorthree.txt
+ # Editor-based HTTP Client requests
+ /httpRequests/
+ # Datasource local storage ignored files

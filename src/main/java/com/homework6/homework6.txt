@@ -1,4 +1,4 @@
-I try to do merge conflict in homework6 branch to master branch
+
 I do homework
 I continue to do homework
 
