@@ -1,1 +1,1 @@
-I do homework
+I try to do merge conflict in homework6 branch to master branch
