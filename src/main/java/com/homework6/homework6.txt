@@ -1,2 +1,4 @@
 
-I repeat
+I try to do merge conflict in homework6 branch to master branch
+I do homework
+I repeat to do it
